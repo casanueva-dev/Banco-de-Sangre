@@ -16,3 +16,24 @@ La presente investigación estará centrada en la informatización de los result
 El técnico del laboratorio recibe las muestras, verifica con el acta de entrega que exista coincidencia y de no existir errores se distribuyen por los departamentos de Laboratorio Control de la Calidad, Inmunohematología y SUMA para su posterior análisis y el resultado final es enviado al departamento Aseguramiento de la Calidad.
 Actualmente la replicación automática al registro de resultados centralizado de donantes a través del programa Galen Banco de Sangre, solo se asienta a los exámenes de tecnología SUMA, por lo que se hace necesaria la implementación de una aplicación informática capaz de gestionar todos resultados obtenidos e incluirlos en el sistema.
 Esto impide que el Galen Banco de Sangre incluya los resultados que se generan de todas las pruebas realizadas en los laboratorios, que puedan unificarse como una sola información y se logren realizar comparaciones de datos estadísticos para la toma de decisiones oportunas en caso necesario. Este flujo de información se trabaja actualmente de forma manual, y los resultados son enviados utilizando el correo electrónico.
+Ana Herro: Hospitalización y Transfusión
+
+
+Las transfusiones de sangre son un procedimiento médico en el cual se transfunde sangre o componentes sanguíneos de una persona a otra. Se utilizan para reemplazar la sangre perdida debido a cirugías, traumatismos, enfermedades hematológicas u otras condiciones médicas que requieren un aumento en los niveles de glóbulos rojos, plaquetas o plasma en el cuerpo. Las transfusiones de sangre son seguras y esenciales en muchos casos para salvar vidas y mejorar la salud de los pacientes.
+
+El proceso de una transfusión de sangre generalmente sigue los siguientes pasos:
+
+1. Evaluación del paciente: Antes de realizar la transfusión, se evalúa al paciente para determinar la necesidad y la cantidad de sangre o componentes sanguíneos que se requieren.
+
+2. Identificación del donante y la sangre: Se selecciona la sangre o componentes sanguíneos adecuados para el paciente, teniendo en cuenta su grupo sanguíneo y posibles requerimientos especiales.
+
+3. Extracción de la sangre del donante: La sangre se extrae de un donante voluntario mediante una venopunción, generalmente en el brazo.
+
+4. Procesamiento de la sangre: La sangre del donante se procesa en un banco de sangre para separarla en sus componentes (glóbulos rojos, plaquetas, plasma) si es necesario.
+
+5. Administración al paciente: La sangre o componentes sanguíneos se transfunden al paciente a través de una vía intravenosa. El personal médico supervisa el proceso para garantizar la seguridad y la compatibilidad.
+
+6. Monitoreo post-transfusión: Después de la transfusión, se monitorea al paciente para detectar posibles reacciones adversas y asegurar que la transfusión haya sido exitosa.
+
+Es importante destacar que las transfusiones de sangre deben realizarse siguiendo estrictas normas de seguridad y calidad para garantizar la salud y bienestar del paciente.
+
