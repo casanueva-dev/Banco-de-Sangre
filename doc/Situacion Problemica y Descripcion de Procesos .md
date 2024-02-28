@@ -37,3 +37,4 @@ El proceso de una transfusión de sangre generalmente sigue los siguientes pasos
 
 Es importante destacar que las transfusiones de sangre deben realizarse siguiendo estrictas normas de seguridad y calidad para garantizar la salud y bienestar del paciente.
 
+Lianet Ramirez: módulo Producción y Servicio de sangre. Se centra en la gestión de componentes obtenidos, almacenamiento, devolución y despacho de los mismos a los servicios de transfusiones y a la industria médico-farmacéutica.
