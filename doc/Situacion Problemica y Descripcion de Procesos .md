@@ -38,3 +38,5 @@ El proceso de una transfusión de sangre generalmente sigue los siguientes pasos
 Es importante destacar que las transfusiones de sangre deben realizarse siguiendo estrictas normas de seguridad y calidad para garantizar la salud y bienestar del paciente.
 
 Lianet Ramirez: módulo Producción y Servicio de sangre. Se centra en la gestión de componentes obtenidos, almacenamiento, devolución y despacho de los mismos a los servicios de transfusiones y a la industria médico-farmacéutica.
+
+Bárbara Amanda Valdés: En el consultorio médico, se lleva a cabo un trabajo coordinado para gestionar la donación de sangre de los pacientes y mantener un registro actualizado de los donantes y sus historias clínicas. Registro y selección de donantes: se registran los datos de los posibles donantes. Historias clínicas y seguimiento médico: se mantiene un registro detallado de la historia clínica de cada donante, incluyendo antecedentes médicos relevantes, resultados de pruebas y seguimiento médico regular para la idoneidad de su sangre para donación. Control de dietas médicas de los donantes
