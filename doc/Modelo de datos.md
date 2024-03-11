@@ -38,6 +38,7 @@ RH
 Hemoglobina
 Lipemia
 Técnico que realiza el prechequeo
+
 Donaciones:
 Número de fabricación de la bolsa (clave primaria)
 Número de lote (clave foránea)
